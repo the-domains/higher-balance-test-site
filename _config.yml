@@ -1,0 +1,28 @@
+name: Higher Balance Test Site
+favicon: null
+layout_spectrum: 0.43489394686184824
+typography_spectrum: 0.9965961629059166
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6647079417016357
+  lightness: 0.40254096989519894
+  saturation: 0.5585724923294038
+  rhythmicContrast: 0.7381809891667217
+purpose: []
